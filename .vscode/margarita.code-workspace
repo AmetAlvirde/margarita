@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "../",
+    },
+    {
+      "name": "web-app",
+      "path": "../apps/web",
+    },
+    {
+      "name": "ui",
+      "path": "../packages/ui",
+    },
+    {
+      "name": "types",
+      "path": "../packages/types",
+    },
+  ],
+}
