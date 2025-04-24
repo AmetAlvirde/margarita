@@ -16,5 +16,9 @@
       "name": "types",
       "path": "../packages/types",
     },
+    {
+      "name": "eslint-config",
+      "path": "../packages/eslint-config",
+    },
   ],
 }
