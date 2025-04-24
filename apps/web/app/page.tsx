@@ -3,7 +3,7 @@ import { ProjectCard } from "@repo/ui/components/project-card";
 
 export default function Home() {
   return (
-    <div className="max-w-screen-md mx-auto text-blue-500">
+    <div className="max-w-screen-md mx-auto">
       <main>
         <ProjectCard
           id="1"
