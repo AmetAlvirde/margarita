@@ -4,7 +4,7 @@ import { ProjectCard } from "@repo/ui/components/project-card";
 export default function Home() {
   return (
     <div className="max-w-screen-md mx-auto">
-      <main>
+      <main className="bg-red-100">
         <ProjectCard
           id="1"
           name="Project 1"
