@@ -1,5 +1,5 @@
 import { Button } from "@repo/ui/button";
-import { ProjectCard } from "@repo/ui/project-card";
+import { ProjectCard } from "@repo/ui/components/project-card";
 import styles from "./page.module.css";
 
 export default function Home() {
